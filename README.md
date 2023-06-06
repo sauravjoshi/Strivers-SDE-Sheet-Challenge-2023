@@ -2,9 +2,9 @@
 
 Strivers-SDE-Sheet-Challenge-2023 [This repo contains solutions against SDE Sheet]
 
-# Project Readme
+# Recent Update / PickUp
 
-Welcome to the project!
+[]
 
 ## Day 1 Directory
 
