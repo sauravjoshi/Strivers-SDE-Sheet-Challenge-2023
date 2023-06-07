@@ -18,3 +18,16 @@ The Day 1 directory contains the following items:
 - Pascal's Triangle
 - Next Permutation
 - Kadane's Algorithm
+
+## Day 2 Directory
+
+You can find the Day 2 directory [here](./Day2).
+
+### Day 2 List
+
+The Day 2 directory contains the following items:
+
+- Sort 0, 1 and 2
+- Stock buy and Sell 1
+- Rotate Matrix 90
+- Merge Overlapping SubIntervals
