@@ -17,3 +17,4 @@ The Day 1 directory contains the following items:
 - Set Matrix Zeros
 - Pascal's Triangle
 - Next Permutation
+- Kadane's Algorithm
